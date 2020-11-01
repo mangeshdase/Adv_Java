@@ -1,0 +1,17 @@
+23. What is Servlet?
+24. How to create Servlet?
+25. What is web.xml file?
+26. What is container?
+27. Explain Servlet Life Cycle?
+28. Name methods to create request type specific Servlet?
+29. How to write text response using servlet?
+30. What is the difference between sendRedirect() and ReqeustDispatcher?
+31. What is the difference between forward() and include() method of RequestDispatcher?
+32. What is Session?
+33. What are the ways to track session in java?
+34. What is Cookie?
+35. What is HttpSession?
+36. Differenciate between Cookie and HttpSession?
+37. What are the Servlet Scopes? Explain them.
+38. What is Context Parameter and how to access them in Servlet?
+39. Explain HttpServletRequest and HttpServletResponse.

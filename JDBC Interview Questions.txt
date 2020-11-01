@@ -1,0 +1,22 @@
+01. What is JDBC?
+02. In which package JDBC API is given?
+03. What is JDBC Driver?
+04. How many types of JDBC Driver given in java?
+05. Explain the Types of JDBC Drivers?
+06. What are the steps to use JDBC API?
+07. What do you mean by loading driver class? How to do it?
+08. What is Connection?
+09. What are the requirements to create connection?
+10. Which class is responsible to create JDBC Connection?
+11. What is Statements?
+12. How many types of statements provided in jdbc?
+13. What is the difference between Statement and PreparedStatement?
+14. How to get Statement type object and PreparedStatement type object?
+15. Explain the ways to execute any query statement?
+16. What is ResultSet?
+17. What is traversing methods in ResultSet?
+18. What is getter methods in ResultSet?
+19. What is transaction?
+20. What is scrollable ResultSet? How to achieve it?
+21. Explain Statement v/s PreparedStatement v/s CallableStatment.
+22. Explain execute() v/s executeUpdate() v/s executeQuery()
